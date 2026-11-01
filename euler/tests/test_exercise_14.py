@@ -1,6 +1,6 @@
 import pytest
 
-from euler.tasks.exercies_14 import collatz_length, collatz_next, longest_collatz_start
+from euler.tasks.exercise_14 import collatz_length, collatz_next, longest_collatz_start
 
 
 def test_next_even():
