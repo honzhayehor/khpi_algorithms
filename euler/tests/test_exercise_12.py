@@ -1,6 +1,6 @@
 import pytest
 
-from euler.tasks.exerciese_12 import count_divisors, first_triangle_over, triangle_number
+from euler.tasks.exercise_12 import count_divisors, first_triangle_over, triangle_number
 
 
 def test_first_ten_triangle_numbers():
